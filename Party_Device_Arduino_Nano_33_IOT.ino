@@ -35,8 +35,8 @@
 
 const char* auth = "mH82hZg_1MyMdtfWIcPmBje9isZvv_w4";                //Authentication token from Blynk
 
-char* ssid = "Defender";                       //Your WiFi name
-char* pass = "";                               //Your WiFi password
+char* ssid = "WiFi name";                       //Your WiFi name
+char* pass = "WiFi password";                   //Your WiFi password, use "" for open netwerk
 
 int analog = A0;                              //Analog pin (A0) from MQ-3 sets to pin A0
 int envoloppe = A2;                           //Analog pin (enveloppe) from the sound detector sets to pin A2
