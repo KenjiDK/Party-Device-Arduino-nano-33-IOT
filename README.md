@@ -3,6 +3,7 @@ Project for school.
 
 Datasheets an wiring diagram (breadboard and schematic) are in the repository of this project.
 
+For more information of the Sparkfun sound detector:  https://learn.sparkfun.com/tutorials/sound-detector-hookup-guide/all
 
 MQ-3 Gas Sensor: VCC -> 5V
                  A0 -> A0
